@@ -1,0 +1,31 @@
+<AssetPackage Name="viamoe-airport-zscg-changzhou-benniu-international-airport" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>zscg-airport</Title>
+		<Manufacturer>viamoe</Manufacturer>
+		<Creator>h0wardch3ng</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\viamoe-airport-zscg-changzhou-benniu-international-airport\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\viamoe-airport-zscg-changzhou-benniu-international-airport</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\viamoe-airport-zscg-changzhou-benniu-international-airport\sceneries</AssetDir>
+			<OutputDir>scenery\viamoe\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

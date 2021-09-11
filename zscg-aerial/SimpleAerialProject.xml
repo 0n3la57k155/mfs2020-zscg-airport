@@ -1,0 +1,8 @@
+<Project Version="2" Name="SimpleAerialProject" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\viamoe-zscg-aerial.xml</Package>
+	</Packages>
+</Project>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject lat="31.92333524985660" lon="119.76207617620285" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<Airport region="Asia" country="China" state="Jiangsu" city="Changzhou" name="Changzhou Benniu International Airport" ident="ZSCG" lat="31.91893788545171" lon="119.77481037604664" alt="0.10764623619616" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="31.92043646004802" lon="119.77530519893297" alt="-19.08025271259248" heading="109.95830535888672" length="3560.74902343750000" width="68.53907775878906" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="TRUE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="MEDIUM" edge="MEDIUM" centerRed="TRUE"/>
+			<ApproachLights end="PRIMARY" system="SSALR" strobes="0" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
+			<ApproachLights end="SECONDARY" system="MALS" strobes="0" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="50.891983" biasZ="1730.242065" spacing="90.000000" pitch="3.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="60.267109" biasZ="1738.498535" spacing="90.000000" pitch="3.000000"/>
+			<RunwayStart end="PRIMARY" lat="31.92586408405620" lon="119.75791240555309" alt="-39.38620015606284" heading="109.34076690673828"/>
+			<RunwayStart end="SECONDARY" lat="31.91510088531062" lon="119.79259222172522" alt="-24.34616573154926" heading="-67.03519439697266"/>
+		</Runway>
+		<Tower groupIndex="1" lat="31.91164131926346" lon="119.78748175000389" alt="-8.91442383177376">
+			<!--SceneryObject name: ESSA_4_tower-->
+			<SceneryObject lat="31.91164131926346" lon="119.78748175000389" alt="0.00000000000000" pitch="0.000376" bank="-0.000376" heading="-159.748617" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<LibraryObject name="{6E7E1E46-974F-4E01-8BC9-F0E0D133528F}" scale="1.000000"/>
+			</SceneryObject>
+		</Tower>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

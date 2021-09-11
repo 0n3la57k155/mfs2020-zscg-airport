@@ -1,0 +1,8 @@
+<Project Version="2" Name="zscg-airport" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\viamoe-airport-zscg-changzhou-benniu-international-airport.xml</Package>
+	</Packages>
+</Project>
+

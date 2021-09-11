@@ -1,0 +1,31 @@
+<AssetPackage Name="viamoe-zscg-aerial" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>ZSCG Aerial</Title>
+		<Manufacturer>viamoe</Manufacturer>
+		<Creator>h0wardch3ng</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\viamoe-zscg-aerial\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\viamoe-zscg-aerial</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Secondary aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\CGL\</AssetDir>
+			<OutputDir>CGL\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
